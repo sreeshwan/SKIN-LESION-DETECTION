@@ -1,3 +1,5 @@
+**SKIN LESION DETECTION**
+
 Project: Hybrid CNN and RNN model for skin lesion detection
 
 Goal: Develop an accurate and effective system for detecting skin lesions to help dermatologists identify and treat a variety of skin conditions.
